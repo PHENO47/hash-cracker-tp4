@@ -24,6 +24,6 @@
 python cracker.py
 ```
 
-## 📊 Résultat
+## Résultat
 
 Le script a trouvé "hacker2026" en 0.0012 secondes.
